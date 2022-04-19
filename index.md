@@ -31,7 +31,7 @@ Manoa Eats will allow hardworking students to nourish their brains with UH’s n
 
 First, [install Meteor](https://www.meteor.com/developers/install)
 
-Second, visit the [Manoa Eats application github page](https://github.com/manoa-eats/manoa-eats.github.io), and click "Use this template" button to create our own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+Second, visit the [Manoa Eats application github page](https://github.com/manoa-eats/manoa-eats), and click "Use this template" button to create our own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
 
 Third, cd into the Manoa Eats app/directory and install the libraries with:
 ```
@@ -47,8 +47,8 @@ If all goes well it will appear at [http://localhost:3000/](http://localhost:300
 
 | Milestones | Description |
 | --- | --- |
-| [Milestone 1](https://github.com/manoa-eats/manoa-eats.github.io/projects/1) | **Mockup Development:** Our goals of Milestone 1 was to create different Mockups so we all were able to get a general idea of how we wanted different pages to look. We also needed to create a landing page of our website. The landing page is meant to help users get a general understanding of what our website is about.  |
-| [Milestone 2](https://github.com/manoa-eats/manoa-eats.github.io/projects/4)| **Data Model Development:** Our mail goal of Milestone 2 was to improve the functionality and quality of or website beyond Milestone 1.  |
+| [Milestone 1](https://github.com/manoa-eats/manoa-eats/projects/1) | **Mockup Development:** Our goals of Milestone 1 was to create different Mockups so we all were able to get a general idea of how we wanted different pages to look. We also needed to create a landing page of our website. The landing page is meant to help users get a general understanding of what our website is about.  |
+| [Milestone 2](https://github.com/manoa-eats/manoa-eats/projects/4)| **Data Model Development:** Our mail goal of Milestone 2 was to improve the functionality and quality of or website beyond Milestone 1.  |
 
 # Deployment
 
@@ -59,6 +59,9 @@ We added our current changes into our [Digital Ocean](http://178.128.242.94/#/) 
 During Milestone one, our first page we worked on getting done was our landing page. When first coming up with the landing page we had our background picture only in the top portion of the page. The more we looked at it we all came to the conclusion that we wanted the background picture to take up the whole page. We also wanted to add a white background around the restaurants and their hours which is on the left side of our landing page. So will be creating those changes in our next Milestone.
 
 ![](images/Landing-Page-Deployment.png)
+
+This is our updated landing page where the image is taking up the full page. 
+![](images/Landing-Page-Full.png)
 
 ### Sign in Page
 We also created the sign in page where users that have already created an account are able to log in and see reviews others have left on the different eateries.
@@ -75,7 +78,7 @@ You will also notice that once a user signs into their account there will be an 
 This landing page is the first mockup that was created during our first group meeting. It is a rough sketch of what we were thinking we wanted our landing page to look like. We wanted to keep it very simple and not too cluttered allowing people to visit our other tabs that we are envisioning our site will have.
 
 <p align="center">
-<img src="doc/landing-mockup.png" width="850">
+<img src="doc/landing-page-draft.png" width="850">
 </p>
 
 After that meeting we then wanted to make a better mockup to have a cleaner look and allow for our landing page to match the theme we are envisioning. The X's and O's on the left side of the page will indicate if a restaurant is opened or closed. In the middle of the page there is a search bar where you can look up a specific food and it will appear where it is being served at.
