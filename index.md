@@ -78,7 +78,7 @@ You will also notice that once a user signs into their account there will be an 
 This landing page is the first mockup that was created during our first group meeting. It is a rough sketch of what we were thinking we wanted our landing page to look like. We wanted to keep it very simple and not too cluttered allowing people to visit our other tabs that we are envisioning our site will have.
 
 <p align="center">
-<img src="doc/Landing-Page-Draft.png" width="850">
+<img src="images/Landing-Page-Draft.png" width="850">
 </p>
 
 After that meeting we then wanted to make a better mockup to have a cleaner look and allow for our landing page to match the theme we are envisioning. The X's and O's on the left side of the page will indicate if a restaurant is opened or closed. In the middle of the page there is a search bar where you can look up a specific food and it will appear where it is being served at.
