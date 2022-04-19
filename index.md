@@ -1,4 +1,5 @@
 # Manoa Eats
+
 ## Table of contents
 
 * [Team Contract](#team-contract)
@@ -132,3 +133,6 @@ After creating a vendor profile they will be able to add their restaurant to our
 ## Team
 Manoa Eats is designed, implemented, and maintained by
 [Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), [Gavin Peng](https://devgav.github.io). 
+
+---
+[manoa-eats.github.io](https://manoa-eats.github.io) is maintained by [manoa-eats](https://github.com/manoa-eats/manoa-eats)
