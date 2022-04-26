@@ -1,8 +1,9 @@
-<h1 align="center">Manoa Eats</h1>
 
 <p align="center">
 <img src="images/Manoa-Eats-Logo.png">
 </p>
+
+<h1 align="center">Manoa Eats</h1>
 
 ## Table of contents
 
@@ -69,7 +70,7 @@ ESLint should run without generating any errors
 | --- | --- |
 | [Milestone 1](https://github.com/manoa-eats/manoa-eats/projects/1) | **Mockup Development:** Our goals of Milestone 1 was to create different Mockups so we all were able to get a general idea of how we wanted different pages to look. We also needed to create a landing page of our website. The landing page is meant to help users get a general understanding of what our website is about.  |
 | [Milestone 2](https://github.com/manoa-eats/manoa-eats/projects/4)| **Data Model Development:** Our mail goal of Milestone 2 was to improve the functionality and quality of or website beyond Milestone 1.  |
-|Milestone 3 |**Final Touches** For Milestone 3 we will be implementing a significant amount of real information directly from the different restaurants that are at Manoa. We will also be asking five community members to try our website and give us feedback on it.|
+|[Milestone 3](https://github.com/manoa-eats/manoa-eats/projects/5) |**Final Touches** For Milestone 3 we will be implementing a significant amount of real information directly from the different restaurants that are at Manoa. We will also be asking five community members to try our website and give us feedback on it.|
 
 # Deployment
 
