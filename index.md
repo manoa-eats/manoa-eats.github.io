@@ -57,26 +57,38 @@ We added our current changes into our [Digital Ocean](https://manoa-eats.xyz/#/)
 
 # User Guide
 ### Landing Page
-
-This is our updated landing page where the image is taking up the full page. 
 ![](images/Landing-Page-Full.png)
 
+On the left hand side of the landing page the user will be able to see the restaurants that are currently open. If the user is craving something specific they will be able to easily find the food by searching for it in the search bar. 
+
 ### Sign in Page
-We also created the sign in page where users that have already created an account are able to log in and see reviews others have left on the different eateries.
-
-![](images/Sign-In-Page.png)
-
-You will also notice that once a user signs into their account there will be an addition tab in their nav bar. It will be the write a reviews tab.
-
+![](images/Sign-In.png)
 ![](images/Signed-In-Page.png)
 
-### Logo 
+The user will be able to navigate to the all restaurants tab without being logged in. However, they will not have access to the different reviews that have been left unless they sign in or create an account. Once the user has signed in or created an account they will be able to see all of the tabs in our nav bar. 
 
-We wanted to create another logo instead of using our default we came up with for our mockups. 
+### Sign up page
+![](images/Sign-Up.png)
 
+If a user does not have an account with us they will be able to create one. All we ask for is an email, password, and for them to indicate if they are a user or a vendor. 
+
+### Logo
 <p align="center">
 <img src="images/Manoa-Eats-Logo.png" height="500" width="500">
 </p>
+
+We also created a new logo that will appear in our top left hand corner. 
+
+### Create a Profile
+![](images/Create-Profile.png)
+
+When creating a profile the user is able to tailor their searches to their specific wants. They are also able to add in any diets they may be on which will filter out the different restaurants that fits their needs. A name and profile picture will also be needed when creating a profile. 
+
+### All Restaurants
+![](images/All-Restaurants.png)
+
+The all restaurants tab will show all of the restaurants that are available on campus. The user will also be able to filter the restaurants in alphabetical order for an easier search. 
+
 
 ## Team
 Manoa Eats is designed, implemented, and maintained by
