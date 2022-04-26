@@ -1,4 +1,8 @@
-# Manoa Eats
+<h1 align="center">Manoa Eats</h1>
+
+<p align="center">
+<img src="images/Manoa-Eats-Logo.png">
+</p>
 
 ## Table of contents
 
@@ -87,11 +91,6 @@ The user will be able to navigate to the all restaurants tab without being logge
 ![](images/Sign-Up.png)
 
 If a user does not have an account with us they will be able to create one. All we ask for is an email, password, and for them to indicate if they are a user or a vendor. 
-
-### Logo
-<p align="center">
-<img src="images/Manoa-Eats-Logo.png" height="500" width="500">
-</p>
 
 We also created a new logo that will appear in our top left hand corner. 
 
