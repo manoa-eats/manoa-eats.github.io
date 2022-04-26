@@ -78,30 +78,29 @@ We added our current changes into our [Digital Ocean](https://manoa-eats.xyz/#/)
 
 # User Guide
 ### Landing Page
-![](images/Landing-Page-Full.png)
+![](images/Landing-Page-update.png)
 
 On the left hand side of the landing page the user will be able to see the restaurants that are currently open. If the user is craving something specific they will be able to easily find the food by searching for it in the search bar. 
 
 ### Sign in Page
-![](images/Sign-In.png)
-![](images/Signed-In-Page.png)
+![](images/Sign-In-Page-Update.png)
 
 The user will be able to navigate to the all restaurants tab without being logged in. However, they will not have access to the different reviews that have been left unless they sign in or create an account. Once the user has signed in or created an account they will be able to see all of the tabs in our nav bar. 
 
 ### Sign up page
-![](images/Sign-Up.png)
+![](images/Sign-Up-Page-update.png)
 
 If a user does not have an account with us they will be able to create one. All we ask for is an email, password, and for them to indicate if they are a user or a vendor. 
 
 We also created a new logo that will appear in our top left hand corner. 
 
 ### Create a Profile
-![](images/Create-Profile.png)
+![](images/Create-profile-update.png)
 
 When creating a profile the user is able to tailor their searches to their specific wants. They are also able to add in any diets they may be on which will filter out the different restaurants that fits their needs. A name and profile picture will also be needed when creating a profile. 
 
 ### All Restaurants
-![](images/All-Restaurants.png)
+![](images/All-Restaurants-update.png)
 
 The all restaurants tab will show all of the restaurants that are available on campus. The user will also be able to filter the restaurants in alphabetical order for an easier search. 
 
