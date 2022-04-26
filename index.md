@@ -43,6 +43,22 @@ $ meteor npm run start
 ```
 If all goes well it will appear at [http://localhost:3000/](http://localhost:3000/)
 
+### ESLint
+You are also able to invoke the ESLint command from the command line with: 
+```
+meteor npm run lint
+```
+Here is an example showing that no ESLint errors were detected: 
+```
+$ meteor npm run lint
+
+> manoa-eats@ lint /Users/johndoe/github/manoea-eats/app
+> eslint --quiet --ext .jsx --ext .js ./imports ./tests
+
+$
+```
+ESLint should run without generating any errors 
+
 # Development History
 
 | Milestones | Description |
