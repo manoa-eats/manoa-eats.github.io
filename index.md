@@ -18,7 +18,7 @@
 * [Team](#team)
 
 # Build Status
-![ci-badge](https://github.com/manoaeats/manoaeats/workflows/ci-manoaeats/badge.svg)
+![ci-badge](https://github.com/manoa-eats/manoa-eats/workflows/manoa-eats/badge.svg)
 
 # Team Contract
 Manoa eats is a team consisting of 5 computer engineering and computer science students that have signed this [Team Contract](https://docs.google.com/document/d/1-v9pqiJ7Q1Jij45WQcrJkHYzmSRQN-saOC0DPg8Gzvk/edit?usp=sharing) to follow a work criteria we all decided upon.
