@@ -15,6 +15,7 @@
 * [Development History](#development-history)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 # Build Status
@@ -115,6 +116,21 @@ When the user is in the All Restaurants tab they will be able to click on the in
 ![](images/Reviews.png)
 
 For each individual restaurant there is a button the user will be able to click on to add a review to that specific restaurant. 
+
+# Community Feedback
+
+### Kasen C. 
+
+- The website is very organised and goes right to the point. Its not to overwhelming with pictures and words it has a background that somewhat relates to the topic. It also is very appealing to the eye.
+- I think I would like to see the search menu at the top where the "i'm feeling hungry" is.
+- Overall looks good!
+
+### Taylor A.
+
+- The website is short & simple about restaurant options
+- It could use a little more color
+- Overall, loved it, super simple & easy to use. Not a million and one links just to find out about one or two products. Awesome!!
+
 
 ## Team
 Manoa Eats is designed, implemented, and maintained by
