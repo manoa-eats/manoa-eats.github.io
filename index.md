@@ -131,6 +131,17 @@ For each individual restaurant there is a button the user will be able to click 
 - It could use a little more color
 - Overall, loved it, super simple & easy to use. Not a million and one links just to find out about one or two products. Awesome!!
 
+### Kelsea Y.
+
+- I liked the graphics, the colors used, and how I could see all of the eateries close by to Manoa
+- I would have liked to see a “top” button that could take you back to the top of the page without having to scroll all the way back up
+- Overall, I think this website was thoughtfully created and very useful to Manoa students
+
+### Branden T.
+
+- Just looking at the website is making me hungry. Great usage of the background image. The "sort by rating" and "i'm feeling hungry" features are great ideas.
+- The "carnivore" diet should probably be changed to "omnivore" diet. May not be necessary to say "(click for more info)" for every restaurant on the "all restaurants" page. Images for The Burger Shop and Tsukuneya not loading.
+- Overall, the website has good aesthetics and functionality. 
 
 ## Team
 Manoa Eats is designed, implemented, and maintained by
