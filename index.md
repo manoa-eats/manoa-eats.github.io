@@ -143,6 +143,18 @@ For each individual restaurant there is a button the user will be able to click 
 - The "carnivore" diet should probably be changed to "omnivore" diet. May not be necessary to say "(click for more info)" for every restaurant on the "all restaurants" page. Images for The Burger Shop and Tsukuneya not loading.
 - Overall, the website has good aesthetics and functionality. 
 
+### Ryan T.
+
+- I liked the layout, the menus that popup when you click on a restaurant, and the I'm feeling hungry button
+- I would like to see more restaurants 
+- Overall, very cool and useful 
+
+### Justine R. 
+
+- I liked that it included dietary options for each restaurant
+- I would like to see more pictures of foods
+- GREAT JOB!!
+
 ## Team
 Manoa Eats is designed, implemented, and maintained by
 [Tyler Baguio](https://tylerb8.github.io), [Kristi Chinen](https://kristihchinen.github.io), [Jeraldine Milla](https://itsjerie.github.io), [Nenye Ndili](https://nenyehub.github.io), [Gavin Peng](https://devgav.github.io). 
