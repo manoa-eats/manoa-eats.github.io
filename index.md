@@ -83,39 +83,44 @@ We added our current changes into our [Digital Ocean](https://manoa-eats.xyz/#/)
 
 # User Guide
 ### Landing Page
-![](images/Landing-Page-update.png)
+![](images/Landing.png)
 
 On the left hand side of the landing page the user will be able to see the different restaurants that are currently open. The search bar in the middle of the page will be used as an easy way for users to search a specific restaurant rather than visiting the All Restaurants tab. 
 
 ### Sign in Page
-![](images/Sign-In-Page-Update.png)
+![](images/Login-Page.png)
 
 In order to have access to the different reviews users have left on the different restaurants they will either need to sign in or create an account. However, users will be able to navigate to the All Restaurants tab without being logged in.  
 
 ### Sign up page
-![](images/Sign-Up-Page-update.png)
+![](images/Register-Page.png)
 
 If a user does not have an account with us they will be able to create one. All we ask for is an email, password, and for them to indicate if they are a user or a vendor. 
 
 ### Create a Profile
-![](images/Create-profile-update.png)
+![](images/Profile.png)
 
 When creating a profile the user is able to tailor their searches to their specific wants. They are also able to add in any diets they may be on which will filter out the different restaurants that fits their needs. A name and profile picture will also be needed when creating a profile. 
 
 ### All Restaurants
-![](images/All-Restaurants-update.png)
+![](images/All-Restaurants-Final.png)
 
 The All Restaurants tab will show all of the restaurants that are available on campus. The user will also be able to filter the restaurants in alphabetical order for an easier search. 
 
 ### Restaurant Details
-![](images/Restaurant-details.png)
+![](images/Restaurant-Details-Update.png)
 
 When the user is in the All Restaurants tab they will be able to click on the individual restaurants to get more details. For example, where they are located, their hours of operation, menu, and their different reviews. 
 
 ### Reviews
-![](images/Reviews.png)
+![](images/Add-A-Review.png)
 
 For each individual restaurant there is a button the user will be able to click on to add a review to that specific restaurant. 
+
+### I'm Feeling Hungry
+![](images/Hungry.png)
+
+When the user clicks on the "I'm Feeling Hungry" tab, a restaurant at random will appear. If the user is not satisfied with the choice they are able to click the tab again for another restaurant to appear. 
 
 # Community Feedback
 
